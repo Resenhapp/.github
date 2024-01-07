@@ -1,5 +1,3 @@
-# Resenha.app
-
 ![Resenha.app Logo](https://cdn.discordapp.com/attachments/1114202749828087890/1114202928488652980/rapp.png)
 
 Bem-vindo ao repositório oficial do Resenha.app, uma plataforma all-in-one de gerenciamento de resenhas, criação de convites e recebimento de pagamentos.
